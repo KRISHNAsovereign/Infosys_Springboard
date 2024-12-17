@@ -1,0 +1,47 @@
+High Volume of Pending Tickets for Technical Issues
+
+Technical issues are the most frequent ticket type, with many unresolved or awaiting customer responses. Common subjects include product setup, network problems, and hardware issues, often leading to delays in resolution.
+Potential Solution: Implement automated responses or self-help guides for common technical issues to reduce pending tickets.
+
+
+
+Critical Priority Tickets Often Originate from Social Media
+
+A significant proportion of critical tickets are submitted through social media channels, such as those related to refunds, billing inquiries, and product inquiries.
+Insight: This indicates social media is a primary channel for urgent customer concerns, necessitating faster response times.
+
+
+
+Customer Satisfaction is Lowest for Billing and Payment Issues
+
+Tickets related to billing inquiries, such as account access or payment issues, have low customer satisfaction ratings (as low as 1.0 in several cases).
+Actionable Step: Automate billing-related inquiries and integrate GenAI-powered chat to provide instant solutions or escalate cases efficiently.
+
+Top Issues/Ticket Types for Automation via GenAI:
+Product Setup Queries
+
+Examples:
+"I'm having an issue with the setup of my GoPro Hero."
+"I've recently set up my Nest Thermostat, but it's not working."
+Description: These can be resolved using step-by-step instructions or interactive troubleshooting workflows.
+
+
+
+Automation Idea: Develop a GenAI-powered chatbot that provides instant setup guidance tailored to the product.
+Refund and Payment Issues
+
+Examples:
+"I need a refund for my Microsoft Surface."
+"There’s a payment issue with my Dyson Vacuum Cleaner."
+Description: Such tickets often involve repetitive queries requiring clear and consistent responses.
+
+
+
+Automation Idea: Use a GenAI model to generate polite and informative responses explaining refund policies or directing users to payment support.
+Peripheral Compatibility and Software Bugs
+
+Examples:
+"Is my LG Smart TV compatible with this device?"
+"My Fitbit Versa Smartwatch has a software issue."
+Description: Many compatibility or software issues can be resolved by referring customers to online resources or FAQs.
+Automation Idea: Create an AI assistant that dynamically searches and shares relevant product documentation.
